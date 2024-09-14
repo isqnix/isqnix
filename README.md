@@ -1,4 +1,4 @@
-## Hi there 👋
+ВОТ БЫ ЩАС ГИДРЫ ПОЮЗАТЬ!!
 
 <!--
 **isqnix/isqnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isqnix&theme=shadow_red&show_icons=true)
+<img align="right" alt="Coding" width="340" src="https://main-cdn.sbermegamarket.ru/big2/hlr-system/103/141/416/312/191/142/100045544625b1.jpg">
+<img src="https://2ch.hk/fag/arch/2024-07-25/src/22595973/17211646056490.jpg" width=200% height=150%>
