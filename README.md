@@ -1,4 +1,8 @@
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isqnix&layout=compact&theme=shadow_red&bg_color=00000000)
+
+</div>
 <div align="center">
 
 ВОТ БЫ ЩАС ГИДРЫ ПОЮЗАТЬ!!
